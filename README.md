@@ -1,4 +1,4 @@
-# Jayceon
+# JayceON
 A simple [JSON](https://json.org) parser I wrote in a few days in ANSI C. You can learn how to use it by reading the header file. The project is fully public domain (under the [unlicense](https://unlicense.org)). There is still improvement to be had (currently does not support serious serialization or data construction, just parsing and accessing data).
 
 ## Building
